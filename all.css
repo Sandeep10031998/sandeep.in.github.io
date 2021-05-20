@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: black;
+}
+#title{
+  text-align: center;
+  background-color: rgb(40, 187, 187);
+  margin-bottom: 0;
+  padding-top: 10px;
+  height: 75px;
+}
+#title:hover{
+  background-color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  color: white;
+}
+.list ul {
+  background-color: rgb(20, 122, 126);
+  height: auto;  
+}
+.list ul:hover{
+  background-color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  color: white; 
+}
+.list li a:hover {
+  background-color: black;
+  text-decoration: none;
+  border-radius: 5px;
+  color: white;
+}
+  .list ul li {
+    list-style: none;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    display: inline-block;
+    font-size: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    color: #000000;
+  }
+h3{
+    color: aliceblue;
+    text-align: center;
+}
+div img{
+    width: 200px;
+    height: 200px;
+    margin-left: 575px;
+    margin-top: 20px;
+}
+article{
+    color: aliceblue;
+    text-align: center;
+    margin: 40px 40px 40px 40px;
+    font-size: 25px;
+    padding: 0px 100px 0px 100px;
+}
+article p{
+    font-size: 25px;
+    font-style: oblique;
+    color: rgb(25, 93, 218);
+}
+
+
+
+.footer {
+  background-color:rgb(40, 187, 187);
+  text-align: center;
+  color: black;
+}
+.footer a {
+  color: black;
+}
+.footer a:hover {
+  color: darkblue;
+}
+.social li a img {
+  width: 30px;
+  height: auto;
+  border-radius: 15px;
+  margin: 10px 10px 10px 10px;
+}
+.social li a img:hover {
+  transform: scale(1.5);
+}
+
+footer {
+  background-color: rgb(20, 122, 126);
+  margin-top: 50px;
+}
+.social {
+  text-align: center;
+  list-style: none;
+}
+span ul li {
+  display: inline-flex;
+  margin: auto;
+}
+
+#thanks {
+  font-size: 15px;
+  color: rgb(1, 3, 5);
+}
+#mobile {
+  font-size: 15px;
+  color: rgb(1, 3, 5);
+}
+#email {
+  font-size: 15px;
+  color: rgb(1, 3, 5);;
+}
+footer div {
+  text-align: center;
+}
