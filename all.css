@@ -46,11 +46,15 @@ h3{
     color: aliceblue;
     text-align: center;
 }
-div img{
+.pic img{
     width: 200px;
     height: 200px;
-    margin-left: 575px;
-    margin-top: 20px;
+}
+.pic{
+  text-align: center;
+  list-style: none;
+  margin-right: 45px;
+  margin-top: 20px;
 }
 article{
     color: aliceblue;
