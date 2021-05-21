@@ -162,23 +162,23 @@ footer div {
   #title{
   
     padding-top: 8px;
-    height: 45px;
-    font-size: 22px;
+    height: 40px;
+    font-size: 15px;
   }
   .list ul li {
   
-    font-size: 20px;
+    font-size: 15px;
     margin-top: 10px;
     justify-content: center;
     margin-bottom: 10px;  
   }
   center {
-    font-size: 15px;
+    font-size: 10px;
   }
   MARQUEE{
    
-    background-size: 20px;
-    font-size: 15px;
+    background-size: 15px;
+    font-size: 10px;
   }
   .pic li{
     margin-left: 0px;
