@@ -75,11 +75,17 @@ MARQUEE{
 .da img:hover{
   transform: scale(.75);
 }
-.pic img{
-  margin-left: 123px;
-  margin-right:123px;
-  margin-bottom: 20px;
+.pic ul{
+  text-align: center;
+}
+.pic li{
+  list-style: none;
+  display: inline;
+  display: inline-flex;
   margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 40px;
+  margin-right: 40px;
 }
 .oc img{
   width: 200px;
