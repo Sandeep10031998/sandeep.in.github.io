@@ -108,20 +108,29 @@ body {
   .li img:hover{
     transform: scale(.75);
   }
+  .name{
+    text-align: center;
+  }
+  .name li{
+    list-style: none;
+    margin-left: 85px;
+    margin-right: 85px;
+    display: inline-flex;
+   color: rgb(38, 51, 173);
+  }
+  .name1{
+    text-align: center;
+  }
+  .name1 li{
+    list-style: none;
+    margin-left: 75px;
+    margin-right: 75px;
+    display: inline-flex;
+   color: rgb(38, 51, 173);
+  }
 
-  p1{
-    color: rgb(29, 77, 236);
-    margin-left: 340px;
-  }
-  p2{
-    color: rgb(29, 77, 236);
-    margin-left: 165px;
-  }
-    
-  p3{
-    color: rgb(29, 77, 236);
-    margin-left: 160px;
-  }
+
+ 
   p7{
     color: rgb(29, 77, 236);
     margin-left: 358px;
