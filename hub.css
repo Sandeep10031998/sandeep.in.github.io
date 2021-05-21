@@ -157,3 +157,31 @@ span ul li {
 footer div {
   text-align: center;
 }
+@media only screen and (max-width: 880px)
+{
+  #title{
+  
+    padding-top: 8px;
+    height: 45px;
+    font-size: 22px;
+  }
+  .list ul li {
+  
+    font-size: 20px;
+    margin-top: 10px;
+    justify-content: center;
+    margin-bottom: 10px;  
+  }
+  center {
+    font-size: 15px;
+  }
+  MARQUEE{
+   
+    background-size: 20px;
+    font-size: 15px;
+  }
+  .pic li{
+    margin-left: 0px;
+    margin-right: 40px;
+  }
+}
