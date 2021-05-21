@@ -42,18 +42,11 @@ body {
     margin-bottom: 10px;
     color: #000000;
   }
-  center {
-    font-size: 20px;
-    margin: 10px 10px 10px 10px;
-    font-style: italic;
-    color: aliceblue;
-  }
-  
-  MARQUEE{
-    color: gold;
-    background-size: 50px;
-    font-size: 25px;
-  }
+h3{
+  text-align: center;
+  color: rgb(32, 80, 170);
+  margin-left: 28px;
+}
   .st img{
     width: 200px;
     height: 300px;
@@ -75,11 +68,17 @@ body {
   .da img:hover{
     transform: scale(.75);
   }
-  .pic img{
-    margin-left: 123px;
-    margin-right:123px;
-    margin-bottom: 20px;
+  .pic ul{
+    text-align: center;
+  }
+  .pic li{
+    list-style: none;
+    display: inline;
+    display: inline-flex;
     margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
   }
   .oc img{
     width: 200px;
