@@ -160,15 +160,14 @@ footer div {
 @media only screen and (max-width: 640px) {
  
   center {
-    font-size: 10px;
+    font-size: 15px;
   }
   MARQUEE {
-    background-size: 15px;
-    font-size: 10px;
+    font-size: 15px;
   }
   .pic li {
     margin-left: 0px;
-    margin-right: 45px;
+    margin-right: 40px;
   }
   .st img {
     width: 150px;
@@ -195,12 +194,7 @@ footer div {
     height: 200px;
   }
   .list ul li {
-    list-style: none;
-  
-    
     font-size: 20px;
-    margin-top: 10px;
-    margin-left: 23px;
-    margin-bottom: 10px;
+    margin-left: 21.4px;
     
 }
