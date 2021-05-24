@@ -43,7 +43,7 @@ body {
     color: #000000;
   }
 h3{
-    color: aliceblue;
+    color: rgb(47, 96, 187);
     text-align: center;
 }
 .pic img{
@@ -57,16 +57,18 @@ h3{
   margin-top: 20px;
 }
 article{
-    color: aliceblue;
+    color: rgb(150, 199, 231);
     text-align: center;
     margin: 40px 40px 40px 40px;
     font-size: 25px;
+    text-align: justify;
     
 }
-article p{
+.main{
     font-size: 25px;
     font-style: oblique;
     color: rgb(25, 93, 218);
+    text-align: center;
 }
 .footer {
   background-color:rgb(40, 187, 187);
@@ -116,4 +118,34 @@ span ul li {
 }
 footer div {
   text-align: center;
+}
+@media only screen and (max-width: 640px) {
+  h3{
+    text-align: center;
+    color: rgb(47, 96, 187);
+    margin-left: -15px;
+    font-size: 20px;
+   }
+  .list ul li {
+    font-size: 20px;
+    margin-left: 21.4px; 
+  }
+  .pic img{
+    width: 130px;
+    height: 175px;
+}
+article{
+  color: rgb(150, 199, 231);
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+  font-size: 20px;
+  text-align: justify;
+  
+}
+.main{
+  font-size: 22px;
+  font-style: oblique;
+  color: rgb(39, 105, 226);
+  text-align: center;
+}
 }
