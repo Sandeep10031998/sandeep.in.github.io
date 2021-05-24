@@ -150,3 +150,42 @@ h3{
     text-align: center;
   }
   
+  @media only screen and (max-width: 640px) {
+    h3{
+      text-align: center;
+      color: rgb(32, 80, 170);
+      margin-left: -18px;
+      font-size: 20px;
+     }
+    .pic li {
+      margin-left: 0px;
+      margin-right: 50px;
+    }
+    .st img {
+      width: 150px;
+      height: 200px;
+    }
+    .fa img {
+      width: 150px;
+      height: 200px;
+    }
+    .da img {
+      width: 150px;
+      height: 200px;
+    }
+    .oc img {
+      width: 150px;
+      height: 200px;
+    }
+    .on img {
+      width: 150px;
+      height: 200px;
+    }
+    .li img {
+      width: 150px;
+      height: 200px;
+    }
+    .list ul li {
+      font-size: 20px;
+      margin-left: 21.4px;  
+  }
