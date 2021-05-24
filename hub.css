@@ -159,12 +159,6 @@ footer div {
 }
 @media only screen and (max-width: 640px) {
  
-  center {
-    font-size: 15px;
-  }
-  MARQUEE {
-    font-size: 15px;
-  }
   .pic li {
     margin-left: 0px;
     margin-right: 40px;
