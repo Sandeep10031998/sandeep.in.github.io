@@ -50,6 +50,7 @@ article{
     height: auto;
     border-radius: 100px;
     margin-top: 180px;
+    margin-bottom: 100px;
 }
 .image1:hover{
     transform: scale(1.5);
